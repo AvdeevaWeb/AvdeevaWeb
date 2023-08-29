@@ -17,5 +17,9 @@
 ![codewars](https://www.codewars.com/users/AvdeevaWeb/badges/large)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvdeevaWeb&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AvdeevaWeb&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvdeevaWeb&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
+
+
 
