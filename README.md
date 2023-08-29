@@ -1,6 +1,6 @@
 
-# Hi there, I'm Anastasia ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### I'm learning Frontend development myself. Goal to get a job as a developer
+# Hi there, I'm Anastasia!
+### I'm learning Frontend development myself. Goal to get a job as a developer!
 
 ---
 
@@ -14,5 +14,8 @@
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 
-
 ![codewars](https://www.codewars.com/users/AvdeevaWeb/badges/large)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/AvdeevaWeb)
+
