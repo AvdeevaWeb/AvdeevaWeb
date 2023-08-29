@@ -17,5 +17,5 @@
 ![codewars](https://www.codewars.com/users/AvdeevaWeb/badges/large)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/AvdeevaWeb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
